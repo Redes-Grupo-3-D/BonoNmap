@@ -1,0 +1,1658 @@
+# Nmap 7.95 scan initiated Mon Mar 31 10:22:58 2025 as: nmap -T4 -A -v -oN C:\\Users\\redes\\Downloads\\ResultadoBono.nmap 157.253.205.0/24
+Nmap scan report for 157.253.205.0 [host down]
+Nmap scan report for 157.253.205.3 [host down]
+Nmap scan report for 157.253.205.4 [host down]
+Nmap scan report for 157.253.205.5 [host down]
+Nmap scan report for 157.253.205.6 [host down]
+Nmap scan report for 157.253.205.8 [host down]
+Nmap scan report for 157.253.205.9 [host down]
+Nmap scan report for 157.253.205.10 [host down]
+Nmap scan report for 157.253.205.11 [host down]
+Nmap scan report for 157.253.205.12 [host down]
+Nmap scan report for 157.253.205.13 [host down]
+Nmap scan report for 157.253.205.14 [host down]
+Nmap scan report for 157.253.205.15 [host down]
+Nmap scan report for 157.253.205.16 [host down]
+Nmap scan report for 157.253.205.17 [host down]
+Nmap scan report for 157.253.205.18 [host down]
+Nmap scan report for 157.253.205.19 [host down]
+Nmap scan report for 157.253.205.20 [host down]
+Nmap scan report for 157.253.205.21 [host down]
+Nmap scan report for 157.253.205.22 [host down]
+Nmap scan report for 157.253.205.23 [host down]
+Nmap scan report for 157.253.205.24 [host down]
+Nmap scan report for 157.253.205.25 [host down]
+Nmap scan report for 157.253.205.26 [host down]
+Nmap scan report for 157.253.205.27 [host down]
+Nmap scan report for 157.253.205.28 [host down]
+Nmap scan report for 157.253.205.29 [host down]
+Nmap scan report for 157.253.205.30 [host down]
+Nmap scan report for 157.253.205.31 [host down]
+Nmap scan report for 157.253.205.32 [host down]
+Nmap scan report for 157.253.205.33 [host down]
+Nmap scan report for 157.253.205.34 [host down]
+Nmap scan report for 157.253.205.35 [host down]
+Nmap scan report for 157.253.205.36 [host down]
+Nmap scan report for 157.253.205.37 [host down]
+Nmap scan report for 157.253.205.39 [host down]
+Nmap scan report for 157.253.205.40 [host down]
+Nmap scan report for 157.253.205.41 [host down]
+Nmap scan report for 157.253.205.42 [host down]
+Nmap scan report for 157.253.205.44 [host down]
+Nmap scan report for 157.253.205.45 [host down]
+Nmap scan report for 157.253.205.46 [host down]
+Nmap scan report for 157.253.205.47 [host down]
+Nmap scan report for 157.253.205.48 [host down]
+Nmap scan report for 157.253.205.49 [host down]
+Nmap scan report for 157.253.205.50 [host down]
+Nmap scan report for 157.253.205.51 [host down]
+Nmap scan report for 157.253.205.52 [host down]
+Nmap scan report for 157.253.205.53 [host down]
+Nmap scan report for 157.253.205.54 [host down]
+Nmap scan report for 157.253.205.55 [host down]
+Nmap scan report for 157.253.205.56 [host down]
+Nmap scan report for 157.253.205.58 [host down]
+Nmap scan report for 157.253.205.59 [host down]
+Nmap scan report for 157.253.205.60 [host down]
+Nmap scan report for 157.253.205.63 [host down]
+Nmap scan report for 157.253.205.64 [host down]
+Nmap scan report for 157.253.205.65 [host down]
+Nmap scan report for 157.253.205.66 [host down]
+Nmap scan report for 157.253.205.68 [host down]
+Nmap scan report for 157.253.205.71 [host down]
+Nmap scan report for 157.253.205.72 [host down]
+Nmap scan report for 157.253.205.73 [host down]
+Nmap scan report for 157.253.205.74 [host down]
+Nmap scan report for 157.253.205.75 [host down]
+Nmap scan report for 157.253.205.76 [host down]
+Nmap scan report for 157.253.205.77 [host down]
+Nmap scan report for 157.253.205.78 [host down]
+Nmap scan report for 157.253.205.79 [host down]
+Nmap scan report for 157.253.205.80 [host down]
+Nmap scan report for 157.253.205.81 [host down]
+Nmap scan report for 157.253.205.82 [host down]
+Nmap scan report for 157.253.205.83 [host down]
+Nmap scan report for 157.253.205.87 [host down]
+Nmap scan report for 157.253.205.88 [host down]
+Nmap scan report for 157.253.205.89 [host down]
+Nmap scan report for 157.253.205.90 [host down]
+Nmap scan report for 157.253.205.91 [host down]
+Nmap scan report for 157.253.205.92 [host down]
+Nmap scan report for 157.253.205.93 [host down]
+Nmap scan report for 157.253.205.94 [host down]
+Nmap scan report for 157.253.205.96 [host down]
+Nmap scan report for 157.253.205.97 [host down]
+Nmap scan report for 157.253.205.98 [host down]
+Nmap scan report for 157.253.205.99 [host down]
+Nmap scan report for 157.253.205.100 [host down]
+Nmap scan report for 157.253.205.101 [host down]
+Nmap scan report for 157.253.205.102 [host down]
+Nmap scan report for 157.253.205.103 [host down]
+Nmap scan report for 157.253.205.104 [host down]
+Nmap scan report for 157.253.205.105 [host down]
+Nmap scan report for 157.253.205.106 [host down]
+Nmap scan report for 157.253.205.107 [host down]
+Nmap scan report for 157.253.205.108 [host down]
+Nmap scan report for 157.253.205.109 [host down]
+Nmap scan report for 157.253.205.110 [host down]
+Nmap scan report for 157.253.205.111 [host down]
+Nmap scan report for 157.253.205.112 [host down]
+Nmap scan report for 157.253.205.113 [host down]
+Nmap scan report for 157.253.205.114 [host down]
+Nmap scan report for 157.253.205.116 [host down]
+Nmap scan report for 157.253.205.117 [host down]
+Nmap scan report for 157.253.205.118 [host down]
+Nmap scan report for 157.253.205.119 [host down]
+Nmap scan report for 157.253.205.120 [host down]
+Nmap scan report for 157.253.205.121 [host down]
+Nmap scan report for 157.253.205.122 [host down]
+Nmap scan report for 157.253.205.123 [host down]
+Nmap scan report for 157.253.205.124 [host down]
+Nmap scan report for 157.253.205.125 [host down]
+Nmap scan report for 157.253.205.126 [host down]
+Nmap scan report for 157.253.205.127 [host down]
+Nmap scan report for 157.253.205.128 [host down]
+Nmap scan report for 157.253.205.130 [host down]
+Nmap scan report for 157.253.205.131 [host down]
+Nmap scan report for 157.253.205.132 [host down]
+Nmap scan report for 157.253.205.134 [host down]
+Nmap scan report for 157.253.205.135 [host down]
+Nmap scan report for 157.253.205.136 [host down]
+Nmap scan report for 157.253.205.138 [host down]
+Nmap scan report for 157.253.205.139 [host down]
+Nmap scan report for 157.253.205.140 [host down]
+Nmap scan report for 157.253.205.141 [host down]
+Nmap scan report for 157.253.205.142 [host down]
+Nmap scan report for 157.253.205.144 [host down]
+Nmap scan report for 157.253.205.145 [host down]
+Nmap scan report for 157.253.205.146 [host down]
+Nmap scan report for 157.253.205.147 [host down]
+Nmap scan report for 157.253.205.148 [host down]
+Nmap scan report for 157.253.205.149 [host down]
+Nmap scan report for 157.253.205.150 [host down]
+Nmap scan report for 157.253.205.151 [host down]
+Nmap scan report for 157.253.205.152 [host down]
+Nmap scan report for 157.253.205.153 [host down]
+Nmap scan report for 157.253.205.154 [host down]
+Nmap scan report for 157.253.205.156 [host down]
+Nmap scan report for 157.253.205.157 [host down]
+Nmap scan report for 157.253.205.159 [host down]
+Nmap scan report for 157.253.205.160 [host down]
+Nmap scan report for 157.253.205.161 [host down]
+Nmap scan report for 157.253.205.163 [host down]
+Nmap scan report for 157.253.205.165 [host down]
+Nmap scan report for 157.253.205.166 [host down]
+Nmap scan report for 157.253.205.167 [host down]
+Nmap scan report for 157.253.205.168 [host down]
+Nmap scan report for 157.253.205.169 [host down]
+Nmap scan report for 157.253.205.170 [host down]
+Nmap scan report for 157.253.205.171 [host down]
+Nmap scan report for 157.253.205.172 [host down]
+Nmap scan report for 157.253.205.173 [host down]
+Nmap scan report for 157.253.205.174 [host down]
+Nmap scan report for 157.253.205.175 [host down]
+Nmap scan report for 157.253.205.176 [host down]
+Nmap scan report for 157.253.205.177 [host down]
+Nmap scan report for 157.253.205.178 [host down]
+Nmap scan report for 157.253.205.179 [host down]
+Nmap scan report for 157.253.205.181 [host down]
+Nmap scan report for 157.253.205.182 [host down]
+Nmap scan report for 157.253.205.183 [host down]
+Nmap scan report for 157.253.205.184 [host down]
+Nmap scan report for 157.253.205.185 [host down]
+Nmap scan report for 157.253.205.186 [host down]
+Nmap scan report for 157.253.205.187 [host down]
+Nmap scan report for 157.253.205.188 [host down]
+Nmap scan report for 157.253.205.189 [host down]
+Nmap scan report for 157.253.205.190 [host down]
+Nmap scan report for 157.253.205.192 [host down]
+Nmap scan report for 157.253.205.193 [host down]
+Nmap scan report for 157.253.205.194 [host down]
+Nmap scan report for 157.253.205.195 [host down]
+Nmap scan report for 157.253.205.196 [host down]
+Nmap scan report for 157.253.205.197 [host down]
+Nmap scan report for 157.253.205.198 [host down]
+Nmap scan report for 157.253.205.200 [host down]
+Nmap scan report for 157.253.205.201 [host down]
+Nmap scan report for 157.253.205.202 [host down]
+Nmap scan report for 157.253.205.203 [host down]
+Nmap scan report for 157.253.205.204 [host down]
+Nmap scan report for 157.253.205.205 [host down]
+Nmap scan report for 157.253.205.206 [host down]
+Nmap scan report for 157.253.205.207 [host down]
+Nmap scan report for 157.253.205.208 [host down]
+Nmap scan report for 157.253.205.209 [host down]
+Nmap scan report for 157.253.205.210 [host down]
+Nmap scan report for 157.253.205.211 [host down]
+Nmap scan report for 157.253.205.212 [host down]
+Nmap scan report for 157.253.205.213 [host down]
+Nmap scan report for 157.253.205.214 [host down]
+Nmap scan report for 157.253.205.215 [host down]
+Nmap scan report for 157.253.205.217 [host down]
+Nmap scan report for 157.253.205.218 [host down]
+Nmap scan report for 157.253.205.219 [host down]
+Nmap scan report for 157.253.205.220 [host down]
+Nmap scan report for 157.253.205.221 [host down]
+Nmap scan report for 157.253.205.222 [host down]
+Nmap scan report for 157.253.205.223 [host down]
+Nmap scan report for 157.253.205.224 [host down]
+Nmap scan report for 157.253.205.225 [host down]
+Nmap scan report for 157.253.205.227 [host down]
+Nmap scan report for 157.253.205.228 [host down]
+Nmap scan report for 157.253.205.229 [host down]
+Nmap scan report for 157.253.205.231 [host down]
+Nmap scan report for 157.253.205.232 [host down]
+Nmap scan report for 157.253.205.233 [host down]
+Nmap scan report for 157.253.205.234 [host down]
+Nmap scan report for 157.253.205.235 [host down]
+Nmap scan report for 157.253.205.236 [host down]
+Nmap scan report for 157.253.205.237 [host down]
+Nmap scan report for 157.253.205.238 [host down]
+Nmap scan report for 157.253.205.240 [host down]
+Nmap scan report for 157.253.205.241 [host down]
+Nmap scan report for 157.253.205.242 [host down]
+Nmap scan report for 157.253.205.245 [host down]
+Nmap scan report for 157.253.205.246 [host down]
+Nmap scan report for 157.253.205.247 [host down]
+Nmap scan report for 157.253.205.248 [host down]
+Nmap scan report for 157.253.205.250 [host down]
+Nmap scan report for 157.253.205.252 [host down]
+Nmap scan report for 157.253.205.253 [host down]
+Nmap scan report for 157.253.205.254 [host down]
+Nmap scan report for 157.253.205.255 [host down]
+Nmap scan report for 157.253.205.1
+Host is up (0.031s latency).
+All 1000 scanned ports on 157.253.205.1 are in ignored states.
+Not shown: 999 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+MAC Address: 44:E4:E6:74:F1:12 (Extreme Networks Headquarters)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS details: Cisco 1812, 3640, or 3700 router (IOS 12.4), Cisco 3925 router (IOS 12.4), Cisco DOCSIS cable modem termination server (IOS 12.1), Cisco 6509 switch (IOS 12.2), Cisco Catalyst 3560 or 6500-series switch (IOS 12.1 - 12.2), Cisco Catalyst 6509-E switch (IOS 12.2), Cisco Nexus 5548P switch (NX-OS 5.1), QEMU user mode network gateway
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT      ADDRESS
+1   30.66 ms 157.253.205.1
+
+Nmap scan report for 157.253.205.2
+Host is up (0.0033s latency).
+All 1000 scanned ports on 157.253.205.2 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 44:E4:E6:74:E1:13 (Extreme Networks Headquarters)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: switch
+Running: Nortel embedded
+OS CPE: cpe:/h:nortel:ethernet_routing_switch_8010 cpe:/h:nortel:ethernet_routing_switch_8606
+OS details: Nortel Ethernet Routing Switch 8010 or 8606
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   3.25 ms 157.253.205.2
+
+Nmap scan report for 157.253.205.7
+Host is up (0.0045s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE         VERSION
+903/tcp  open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+3389/tcp open  ms-wbt-server   Microsoft Terminal Services
+|_ssl-date: 2025-03-31T15:26:06+00:00; 0s from scanner time.
+| ssl-cert: Subject: commonName=DESKTOP-T1NCTLT
+| Issuer: commonName=DESKTOP-T1NCTLT
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2024-11-16T04:11:33
+| Not valid after:  2025-05-18T04:11:33
+| MD5:   0f04:8129:837e:5bb4:3bd5:a9a0:7540:8d0d
+|_SHA-1: 8a35:bf70:825b:ac7a:795c:c58c:d94c:d1ba:5290:0e34
+| rdp-ntlm-info: 
+|   Target_Name: DESKTOP-T1NCTLT
+|   NetBIOS_Domain_Name: DESKTOP-T1NCTLT
+|   NetBIOS_Computer_Name: DESKTOP-T1NCTLT
+|   DNS_Domain_Name: DESKTOP-T1NCTLT
+|   DNS_Computer_Name: DESKTOP-T1NCTLT
+|   Product_Version: 10.0.19041
+|_  System_Time: 2025-03-31T15:25:31+00:00
+5357/tcp open  http            Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-title: Service Unavailable
+MAC Address: 50:9A:4C:4E:02:5C (Dell)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 10|11|2019 (92%)
+OS CPE: cpe:/o:microsoft:windows_10 cpe:/o:microsoft:windows_11 cpe:/o:microsoft:windows_server_2019
+Aggressive OS guesses: Microsoft Windows 10 1803 (92%), Microsoft Windows 10 1903 - 21H1 (92%), Microsoft Windows 11 (89%), Microsoft Windows 10 1809 (87%), Microsoft Windows 10 1909 (85%), Microsoft Windows 10 1909 - 2004 (85%), Windows Server 2019 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=257 (Good luck!)
+IP ID Sequence Generation: Incrementing by 2
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   4.52 ms 157.253.205.7
+
+Nmap scan report for 157.253.205.38
+Host is up (0.0020s latency).
+All 1000 scanned ports on 157.253.205.38 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 58:6D:8F:73:4D:CD (Cisco-Linksys)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   2.00 ms 157.253.205.38
+
+Nmap scan report for 157.253.205.43
+Host is up (0.0010s latency).
+All 1000 scanned ports on 157.253.205.43 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 50:9A:4C:4E:07:3D (Dell)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   1.00 ms 157.253.205.43
+
+Nmap scan report for 157.253.205.57
+Host is up (0.0061s latency).
+Not shown: 990 closed tcp ports (reset)
+PORT     STATE SERVICE         VERSION
+80/tcp   open  http            Grafana http
+|_http-favicon: Unknown favicon MD5: BCC4933F81EFF43E5D9BCC5B2828AA70
+| http-title: Grafana
+|_Requested resource was /login
+| http-robots.txt: 1 disallowed entry 
+|_/
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+|_http-trane-info: Problem with XML parsing of /evox/about
+135/tcp  open  msrpc           Microsoft Windows RPC
+139/tcp  open  netbios-ssn     Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+902/tcp  open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+912/tcp  open  vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)
+3000/tcp open  http            Node.js Express framework
+|_http-title: Site doesn't have a title (application/json; charset=utf-8).
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+3389/tcp open  ms-wbt-server   Microsoft Terminal Services
+|_ssl-date: 2025-03-31T15:26:06+00:00; 0s from scanner time.
+| ssl-cert: Subject: commonName=SERVER-02
+| Issuer: commonName=SERVER-02
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2024-11-13T22:09:59
+| Not valid after:  2025-05-15T22:09:59
+| MD5:   2a1d:82d6:3e9d:b5fd:65db:b328:4e29:7d9d
+|_SHA-1: 65c0:4955:8310:e322:7dc0:abc8:cfc1:9acb:0db0:ac60
+5357/tcp open  http            Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-title: Service Unavailable
+|_http-server-header: Microsoft-HTTPAPI/2.0
+5432/tcp open  postgresql      PostgreSQL DB 15.5 - 15.6
+MAC Address: 50:9A:4C:4E:F3:1C (Dell)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1709 - 21H2
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=262 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| nbstat: NetBIOS name: SERVER-02, NetBIOS user: <unknown>, NetBIOS MAC: 50:9a:4c:4e:f3:1c (Dell)
+| Names:
+|   SERVER-02<20>        Flags: <unique><active>
+|   SERVER-02<00>        Flags: <unique><active>
+|_  WORKGROUP<00>        Flags: <group><active>
+| smb2-time: 
+|   date: 2025-03-31T15:25:44
+|_  start_date: N/A
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   6.12 ms 157.253.205.57
+
+Nmap scan report for 157.253.205.61
+Host is up (0.0043s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE VERSION
+5357/tcp open  http    Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-title: Service Unavailable
+MAC Address: 50:9A:4C:4E:F0:36 (Dell)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 10|11|2019 (92%)
+OS CPE: cpe:/o:microsoft:windows_10 cpe:/o:microsoft:windows_11 cpe:/o:microsoft:windows_server_2019
+Aggressive OS guesses: Microsoft Windows 10 1803 (92%), Microsoft Windows 10 1903 - 21H1 (92%), Microsoft Windows 11 (89%), Microsoft Windows 10 1809 (87%), Microsoft Windows 10 1909 (85%), Microsoft Windows 10 1909 - 2004 (85%), Windows Server 2019 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=258 (Good luck!)
+IP ID Sequence Generation: Incrementing by 2
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   4.33 ms 157.253.205.61
+
+Nmap scan report for 157.253.205.62
+Host is up (0.0010s latency).
+All 1000 scanned ports on 157.253.205.62 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 50:9A:4C:4F:77:5A (Dell)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   1.00 ms 157.253.205.62
+
+Nmap scan report for 157.253.205.67
+Host is up (0.0020s latency).
+All 1000 scanned ports on 157.253.205.67 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 50:9A:4C:4E:03:35 (Dell)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   2.00 ms 157.253.205.67
+
+Nmap scan report for 157.253.205.69
+Host is up (0.0069s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT     STATE SERVICE    VERSION
+22/tcp   open  ssh        OpenSSH 9.6p1 Ubuntu 3ubuntu13.8 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 1e:83:61:27:47:de:eb:dc:d7:71:c1:69:be:2e:21:c5 (ECDSA)
+|_  256 67:50:51:34:33:d3:23:8c:1a:6e:a3:f0:ae:f9:01:c3 (ED25519)
+8088/tcp open  radan-http
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 31 Mar 2025 15:24:18 GMT
+|     Connection: close
+|     Access-Control-Allow-Origin: *
+|     Access-Control-Max-Age: 86400
+|     Content-Length: 0
+|   GetRequest: 
+|     HTTP/1.1 404 Not Found
+|     Date: Mon, 31 Mar 2025 15:23:38 GMT
+|     Connection: close
+|     Access-Control-Allow-Origin: *
+|     Access-Control-Max-Age: 86400
+|     Content-Length: 0
+|   RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Mon, 31 Mar 2025 15:23:48 GMT
+|     Connection: close
+|     Content-Length: 117
+|     <html><head><title>Request malformed</title></head><body>Your HTTP request was syntactically incorrect.</body></html>
+|   SIPOptions: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Mon, 31 Mar 2025 15:24:23 GMT
+|     Connection: close
+|     Content-Length: 117
+|     <html><head><title>Request malformed</title></head><body>Your HTTP request was syntactically incorrect.</body></html>
+|   TerminalServerCookie: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Mon, 31 Mar 2025 15:24:03 GMT
+|     Connection: close
+|     Content-Length: 117
+|_    <html><head><title>Request malformed</title></head><body>Your HTTP request was syntactically incorrect.</body></html>
+|_http-title: Site doesn't have a title.
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port8088-TCP:V=7.95%I=7%D=3/31%Time=67EAB37A%P=i686-pc-windows-windows%
+SF:r(GetRequest,A4,"HTTP/1\.1\x20404\x20Not\x20Found\r\nDate:\x20Mon,\x203
+SF:1\x20Mar\x202025\x2015:23:38\x20GMT\r\nConnection:\x20close\r\nAccess-C
+SF:ontrol-Allow-Origin:\x20\*\r\nAccess-Control-Max-Age:\x2086400\r\nConte
+SF:nt-Length:\x200\r\n\r\n")%r(RTSPRequest,DE,"HTTP/1\.1\x20400\x20Bad\x20
+SF:Request\r\nDate:\x20Mon,\x2031\x20Mar\x202025\x2015:23:48\x20GMT\r\nCon
+SF:nection:\x20close\r\nContent-Length:\x20117\r\n\r\n<html><head><title>R
+SF:equest\x20malformed</title></head><body>Your\x20HTTP\x20request\x20was\
+SF:x20syntactically\x20incorrect\.</body></html>")%r(TerminalServerCookie,
+SF:DE,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nDate:\x20Mon,\x2031\x20Mar\x2
+SF:02025\x2015:24:03\x20GMT\r\nConnection:\x20close\r\nContent-Length:\x20
+SF:117\r\n\r\n<html><head><title>Request\x20malformed</title></head><body>
+SF:Your\x20HTTP\x20request\x20was\x20syntactically\x20incorrect\.</body></
+SF:html>")%r(FourOhFourRequest,A4,"HTTP/1\.1\x20404\x20Not\x20Found\r\nDat
+SF:e:\x20Mon,\x2031\x20Mar\x202025\x2015:24:18\x20GMT\r\nConnection:\x20cl
+SF:ose\r\nAccess-Control-Allow-Origin:\x20\*\r\nAccess-Control-Max-Age:\x2
+SF:086400\r\nContent-Length:\x200\r\n\r\n")%r(SIPOptions,DE,"HTTP/1\.1\x20
+SF:400\x20Bad\x20Request\r\nDate:\x20Mon,\x2031\x20Mar\x202025\x2015:24:23
+SF:\x20GMT\r\nConnection:\x20close\r\nContent-Length:\x20117\r\n\r\n<html>
+SF:<head><title>Request\x20malformed</title></head><body>Your\x20HTTP\x20r
+SF:equest\x20was\x20syntactically\x20incorrect\.</body></html>");
+MAC Address: 50:9A:4C:4E:F3:6F (Dell)
+Device type: general purpose|router
+Running: Linux 4.X|5.X, MikroTik RouterOS 7.X
+OS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3
+OS details: Linux 4.15 - 5.19, OpenWrt 21.02 (Linux 5.4), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)
+Uptime guess: 30.970 days (since Fri Feb 28 11:09:51 2025)
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=263 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   6.86 ms 157.253.205.69
+
+Nmap scan report for 157.253.205.70
+Host is up (0.0038s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE       VERSION
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+|_ssl-date: 2025-03-31T15:26:06+00:00; 0s from scanner time.
+| ssl-cert: Subject: commonName=DESKTOP-52EOD2O
+| Issuer: commonName=DESKTOP-52EOD2O
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2024-11-16T00:21:02
+| Not valid after:  2025-05-18T00:21:02
+| MD5:   4e1b:8a5b:5711:f58d:c2e2:c06f:4093:8757
+|_SHA-1: f171:c274:f97f:893c:5ae4:59b4:130d:4814:e704:9a68
+| rdp-ntlm-info: 
+|   Target_Name: DESKTOP-52EOD2O
+|   NetBIOS_Domain_Name: DESKTOP-52EOD2O
+|   NetBIOS_Computer_Name: DESKTOP-52EOD2O
+|   DNS_Domain_Name: DESKTOP-52EOD2O
+|   DNS_Computer_Name: DESKTOP-52EOD2O
+|   Product_Version: 10.0.19041
+|_  System_Time: 2025-03-31T15:25:27+00:00
+MAC Address: 50:9A:4C:4E:00:A0 (Dell)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=259 (Good luck!)
+IP ID Sequence Generation: Incrementing by 2
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   3.82 ms 157.253.205.70
+
+Nmap scan report for datacube-server.uniandes.edu.co (157.253.205.84)
+Host is up (0.0066s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 7.9p1 Debian 10+deb10u4 (protocol 2.0)
+| ssh-hostkey: 
+|   2048 08:85:db:33:0b:25:24:27:cb:57:32:07:c0:fe:3c:8e (RSA)
+|   256 06:fa:0d:64:e1:4f:4a:df:d2:25:3b:a2:f7:a4:9e:b6 (ECDSA)
+|_  256 16:86:da:b3:3a:0e:aa:92:43:02:ba:7d:80:09:6c:ab (ED25519)
+111/tcp  open  rpcbind 2-4 (RPC #100000)
+| rpcinfo: 
+|   program version    port/proto  service
+|   100000  2,3,4        111/tcp   rpcbind
+|   100000  2,3,4        111/udp   rpcbind
+|   100000  3,4          111/tcp6  rpcbind
+|_  100000  3,4          111/udp6  rpcbind
+3128/tcp open  http    Proxmox Virtual Environment REST API 3.0
+|_http-server-header: pve-api-daemon/3.0
+|_http-title: Site doesn't have a title.
+3300/tcp open  ceph    Ceph distributed filesystem msgr2 protocol
+6789/tcp open  ceph    Ceph distributed filesystem protocol v027 (ipv4)
+MAC Address: 4C:D9:8F:A7:89:01 (Dell)
+Device type: general purpose|router
+Running: Linux 4.X|5.X, MikroTik RouterOS 7.X
+OS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3
+OS details: Linux 4.15 - 5.19, OpenWrt 21.02 (Linux 5.4), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)
+Uptime guess: 41.602 days (since Mon Feb 17 19:58:45 2025)
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=259 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   6.61 ms datacube-server.uniandes.edu.co (157.253.205.84)
+
+Nmap scan report for 157.253.205.85
+Host is up (0.0073s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT     STATE SERVICE     VERSION
+22/tcp   open  ssh         OpenSSH 8.2p1 Ubuntu 4ubuntu0.12 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 b9:21:7c:ef:ea:b7:07:b5:8e:8a:86:16:c1:79:18:50 (RSA)
+|   256 ce:ea:d5:35:f1:09:78:47:02:b8:b9:78:aa:55:35:e8 (ECDSA)
+|_  256 f0:cf:60:56:db:bf:97:70:99:22:a8:d4:d1:bd:86:09 (ED25519)
+80/tcp   open  http        nginx 1.27.2
+|_http-title: Phobos_Box::CTF
+|_http-server-header: nginx/1.27.2
+|_http-trane-info: Problem with XML parsing of /evox/about
+|_http-favicon: Unknown favicon MD5: 67C5E5E70D4680026E675B961A8BBEB7
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+5000/tcp open  http        Werkzeug httpd 3.1.3 (Python 3.9.20)
+|_http-server-header: Werkzeug/3.1.3 Python/3.9.20
+|_http-title: 404 Not Found
+8000/tcp open  nagios-nsca Nagios NSCA
+|_http-title: Site doesn't have a title (text/plain; charset=utf-8).
+8080/tcp open  http        Microsoft Kestrel httpd
+|_http-title: Phobos_Box::CTF
+|_http-server-header: Kestrel
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+|_http-trane-info: Problem with XML parsing of /evox/about
+9000/tcp open  http        Golang net/http server
+| fingerprint-strings: 
+|   GenericLines: 
+|     HTTP/1.1 400 Bad Request
+|     Content-Type: text/plain; charset=utf-8
+|     Connection: close
+|     Request
+|   GetRequest, HTTPOptions: 
+|     HTTP/1.0 200 OK
+|     Accept-Ranges: bytes
+|     Cache-Control: max-age=31536000
+|     Content-Length: 19300
+|     Content-Type: text/html; charset=utf-8
+|     Last-Modified: Mon, 09 Sep 2024 21:30:30 GMT
+|     Vary: Accept-Encoding
+|     X-Content-Type-Options: nosniff
+|     X-Csrf-Token: 
+|     X-Xss-Protection: 1; mode=block
+|     Date: Mon, 31 Mar 2025 15:23:38 GMT
+|     <!doctype html><html lang="en" ng-app="portainer" ng-strict-di data-edition="CE"><head><meta charset="utf-8"/><title>Portainer</title><meta name="description" content=""/><meta name="author" content="Portainer.io"/><meta http-equiv="cache-control" content="no-cache"/><meta http-equiv="expires" content="0"/><meta http-equiv="pragma" content="no-cache"/><meta name="robots" content="noindex"/><base id="base"/><script>// http://localhost:49000 is a docker extension specific url (see /build/docker-extension/docker-compose.yml)
+|_    (window.origin == 'http://localhost:49
+|_http-title: Portainer
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port9000-TCP:V=7.95%I=7%D=3/31%Time=67EAB37A%P=i686-pc-windows-windows%
+SF:r(GenericLines,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-Type:\
+SF:x20text/plain;\x20charset=utf-8\r\nConnection:\x20close\r\n\r\n400\x20B
+SF:ad\x20Request")%r(GetRequest,4CA9,"HTTP/1\.0\x20200\x20OK\r\nAccept-Ran
+SF:ges:\x20bytes\r\nCache-Control:\x20max-age=31536000\r\nContent-Length:\
+SF:x2019300\r\nContent-Type:\x20text/html;\x20charset=utf-8\r\nLast-Modifi
+SF:ed:\x20Mon,\x2009\x20Sep\x202024\x2021:30:30\x20GMT\r\nVary:\x20Accept-
+SF:Encoding\r\nX-Content-Type-Options:\x20nosniff\r\nX-Csrf-Token:\x20\r\n
+SF:X-Xss-Protection:\x201;\x20mode=block\r\nDate:\x20Mon,\x2031\x20Mar\x20
+SF:2025\x2015:23:38\x20GMT\r\n\r\n<!doctype\x20html><html\x20lang=\"en\"\x
+SF:20ng-app=\"portainer\"\x20ng-strict-di\x20data-edition=\"CE\"><head><me
+SF:ta\x20charset=\"utf-8\"/><title>Portainer</title><meta\x20name=\"descri
+SF:ption\"\x20content=\"\"/><meta\x20name=\"author\"\x20content=\"Portaine
+SF:r\.io\"/><meta\x20http-equiv=\"cache-control\"\x20content=\"no-cache\"/
+SF:><meta\x20http-equiv=\"expires\"\x20content=\"0\"/><meta\x20http-equiv=
+SF:\"pragma\"\x20content=\"no-cache\"/><meta\x20name=\"robots\"\x20content
+SF:=\"noindex\"/><base\x20id=\"base\"/><script>//\x20http://localhost:4900
+SF:0\x20is\x20a\x20docker\x20extension\x20specific\x20url\x20\(see\x20/bui
+SF:ld/docker-extension/docker-compose\.yml\)\n\x20\x20\x20\x20\x20\x20if\x
+SF:20\(window\.origin\x20==\x20'http://localhost:49")%r(HTTPOptions,37EC,"
+SF:HTTP/1\.0\x20200\x20OK\r\nAccept-Ranges:\x20bytes\r\nCache-Control:\x20
+SF:max-age=31536000\r\nContent-Length:\x2019300\r\nContent-Type:\x20text/h
+SF:tml;\x20charset=utf-8\r\nLast-Modified:\x20Mon,\x2009\x20Sep\x202024\x2
+SF:021:30:30\x20GMT\r\nVary:\x20Accept-Encoding\r\nX-Content-Type-Options:
+SF:\x20nosniff\r\nX-Csrf-Token:\x20\r\nX-Xss-Protection:\x201;\x20mode=blo
+SF:ck\r\nDate:\x20Mon,\x2031\x20Mar\x202025\x2015:23:38\x20GMT\r\n\r\n<!do
+SF:ctype\x20html><html\x20lang=\"en\"\x20ng-app=\"portainer\"\x20ng-strict
+SF:-di\x20data-edition=\"CE\"><head><meta\x20charset=\"utf-8\"/><title>Por
+SF:tainer</title><meta\x20name=\"description\"\x20content=\"\"/><meta\x20n
+SF:ame=\"author\"\x20content=\"Portainer\.io\"/><meta\x20http-equiv=\"cach
+SF:e-control\"\x20content=\"no-cache\"/><meta\x20http-equiv=\"expires\"\x2
+SF:0content=\"0\"/><meta\x20http-equiv=\"pragma\"\x20content=\"no-cache\"/
+SF:><meta\x20name=\"robots\"\x20content=\"noindex\"/><base\x20id=\"base\"/
+SF:><script>//\x20http://localhost:49000\x20is\x20a\x20docker\x20extension
+SF:\x20specific\x20url\x20\(see\x20/build/docker-extension/docker-compose\
+SF:.yml\)\n\x20\x20\x20\x20\x20\x20if\x20\(window\.origin\x20==\x20'http:/
+SF:/localhost:49");
+MAC Address: 2A:8E:5C:A8:D1:7A (Unknown)
+Device type: general purpose|router
+Running: Linux 4.X|5.X, MikroTik RouterOS 7.X
+OS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3
+OS details: Linux 4.15 - 5.19, OpenWrt 21.02 (Linux 5.4), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)
+Uptime guess: 3.654 days (since Thu Mar 27 18:45:05 2025)
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=261 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   7.26 ms 157.253.205.85
+
+Nmap scan report for 157.253.205.86
+Host is up (0.0037s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT     STATE SERVICE       VERSION
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+|_ssl-date: 2025-03-31T15:26:06+00:00; 0s from scanner time.
+| rdp-ntlm-info: 
+|   Target_Name: WIN-MJCIHOTFKB3
+|   NetBIOS_Domain_Name: WIN-MJCIHOTFKB3
+|   NetBIOS_Computer_Name: WIN-MJCIHOTFKB3
+|   DNS_Domain_Name: WIN-MJCIHOTFKB3
+|   DNS_Computer_Name: WIN-MJCIHOTFKB3
+|   Product_Version: 10.0.17763
+|_  System_Time: 2025-03-31T15:25:24+00:00
+| ssl-cert: Subject: commonName=WIN-MJCIHOTFKB3
+| Issuer: commonName=WIN-MJCIHOTFKB3
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2025-03-11T21:45:37
+| Not valid after:  2025-09-10T21:45:37
+| MD5:   f506:e44b:d74b:7344:6d14:3b2e:66e1:4c9a
+|_SHA-1: b030:ad90:fcf0:eb43:82d5:2084:bf36:6488:ba67:bdb7
+5985/tcp open  http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-title: Not Found
+MAC Address: FA:FB:88:28:14:4D (Unknown)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=262 (Good luck!)
+IP ID Sequence Generation: Incrementing by 2
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   3.74 ms 157.253.205.86
+
+Nmap scan report for 157.253.205.95
+Host is up (0.0030s latency).
+All 1000 scanned ports on 157.253.205.95 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 50:9A:4C:4E:06:24 (Dell)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   3.00 ms 157.253.205.95
+
+Nmap scan report for 157.253.205.115
+Host is up (0.0066s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT     STATE SERVICE         VERSION
+135/tcp  open  msrpc           Microsoft Windows RPC
+139/tcp  open  netbios-ssn     Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+902/tcp  open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+912/tcp  open  vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)
+3389/tcp open  ms-wbt-server   Microsoft Terminal Services
+| rdp-ntlm-info: 
+|   Target_Name: DESKTOP-PPTNNEV
+|   NetBIOS_Domain_Name: DESKTOP-PPTNNEV
+|   NetBIOS_Computer_Name: DESKTOP-PPTNNEV
+|   DNS_Domain_Name: DESKTOP-PPTNNEV
+|   DNS_Computer_Name: DESKTOP-PPTNNEV
+|   Product_Version: 10.0.19041
+|_  System_Time: 2025-03-31T15:25:22+00:00
+|_ssl-date: 2025-03-31T15:26:06+00:00; 0s from scanner time.
+| ssl-cert: Subject: commonName=DESKTOP-PPTNNEV
+| Issuer: commonName=DESKTOP-PPTNNEV
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2024-11-27T07:07:21
+| Not valid after:  2025-05-29T07:07:21
+| MD5:   68c9:2373:ac4d:078c:00dc:c947:0eda:0775
+|_SHA-1: eae8:cfa6:25f4:dd19:0e47:2995:ce57:a7f0:0d59:db70
+MAC Address: 50:9A:4C:4E:07:07 (Dell)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1709 - 21H2
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=257 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| nbstat: NetBIOS name: DESKTOP-PPTNNEV, NetBIOS user: <unknown>, NetBIOS MAC: 50:9a:4c:4e:07:07 (Dell)
+| Names:
+|   DESKTOP-PPTNNEV<00>  Flags: <unique><active>
+|   WORKGROUP<00>        Flags: <group><active>
+|_  DESKTOP-PPTNNEV<20>  Flags: <unique><active>
+| smb2-time: 
+|   date: 2025-03-31T15:25:45
+|_  start_date: N/A
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   6.64 ms 157.253.205.115
+
+Nmap scan report for 157.253.205.129
+Host is up (0.0065s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT     STATE SERVICE         VERSION
+135/tcp  open  msrpc           Microsoft Windows RPC
+139/tcp  open  netbios-ssn     Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+902/tcp  open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+912/tcp  open  vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)
+5357/tcp open  http            Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-title: Service Unavailable
+MAC Address: 50:9A:4C:4E:F3:3A (Dell)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1709 - 21H2
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=260 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| nbstat: NetBIOS name: DESKTOP-4P0RKTU, NetBIOS user: <unknown>, NetBIOS MAC: 50:9a:4c:4e:f3:3a (Dell)
+| Names:
+|   DESKTOP-4P0RKTU<00>  Flags: <unique><active>
+|   WORKGROUP<00>        Flags: <group><active>
+|_  DESKTOP-4P0RKTU<20>  Flags: <unique><active>
+| smb2-time: 
+|   date: 2025-03-31T15:25:45
+|_  start_date: N/A
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   6.51 ms 157.253.205.129
+
+Nmap scan report for 157.253.205.133
+Host is up (0.0075s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT     STATE SERVICE         VERSION
+135/tcp  open  msrpc           Microsoft Windows RPC
+139/tcp  open  netbios-ssn     Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+902/tcp  open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+912/tcp  open  vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)
+3389/tcp open  ms-wbt-server   Microsoft Terminal Services
+| ssl-cert: Subject: commonName=Server-08
+| Issuer: commonName=Server-08
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2025-03-13T18:31:57
+| Not valid after:  2025-09-12T18:31:57
+| MD5:   5a94:fe37:c6eb:dbe5:e4d2:418c:5ac7:de84
+|_SHA-1: 2807:607d:44f9:b9ad:7b03:b105:f9fa:ec6a:763b:4921
+|_ssl-date: 2025-03-31T15:26:06+00:00; -1s from scanner time.
+| rdp-ntlm-info: 
+|   Target_Name: SERVER-08
+|   NetBIOS_Domain_Name: SERVER-08
+|   NetBIOS_Computer_Name: SERVER-08
+|   DNS_Domain_Name: Server-08
+|   DNS_Computer_Name: Server-08
+|   Product_Version: 10.0.19041
+|_  System_Time: 2025-03-31T15:25:39+00:00
+MAC Address: 50:9A:4C:4E:F3:E5 (Dell)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1709 - 21H2
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=261 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| nbstat: NetBIOS name: SERVER-08, NetBIOS user: <unknown>, NetBIOS MAC: 50:9a:4c:4e:f3:e5 (Dell)
+| Names:
+|   SERVER-08<20>        Flags: <unique><active>
+|   SERVER-08<00>        Flags: <unique><active>
+|_  WORKGROUP<00>        Flags: <group><active>
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+| smb2-time: 
+|   date: 2025-03-31T15:25:45
+|_  start_date: N/A
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   7.45 ms 157.253.205.133
+
+Nmap scan report for server-20.ad.uniandes.edu.co (157.253.205.137)
+Host is up (0.0074s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT     STATE SERVICE         VERSION
+135/tcp  open  msrpc           Microsoft Windows RPC
+139/tcp  open  netbios-ssn     Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+902/tcp  open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+912/tcp  open  vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)
+3389/tcp open  ms-wbt-server   Microsoft Terminal Services
+|_ssl-date: 2025-03-31T15:26:06+00:00; 0s from scanner time.
+| ssl-cert: Subject: commonName=SERVER-20
+| Issuer: commonName=SERVER-20
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2024-11-15T23:59:09
+| Not valid after:  2025-05-17T23:59:09
+| MD5:   9df3:abaf:0f4c:3ba5:7a43:5ce7:fd8f:4b99
+|_SHA-1: 420c:fb6d:04a8:5a4c:6f48:7a3b:5325:d765:3861:bb54
+| rdp-ntlm-info: 
+|   Target_Name: SERVER-20
+|   NetBIOS_Domain_Name: SERVER-20
+|   NetBIOS_Computer_Name: SERVER-20
+|   DNS_Domain_Name: SERVER-20
+|   DNS_Computer_Name: SERVER-20
+|   Product_Version: 10.0.19041
+|_  System_Time: 2025-03-31T15:25:32+00:00
+MAC Address: 50:9A:4C:4E:F3:A9 (Dell)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1709 - 21H2
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=259 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| nbstat: NetBIOS name: SERVER-20, NetBIOS user: <unknown>, NetBIOS MAC: 50:9a:4c:4e:f3:a9 (Dell)
+| Names:
+|   SERVER-20<00>        Flags: <unique><active>
+|   WORKGROUP<00>        Flags: <group><active>
+|_  SERVER-20<20>        Flags: <unique><active>
+| smb2-time: 
+|   date: 2025-03-31T15:25:46
+|_  start_date: N/A
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   7.39 ms server-20.ad.uniandes.edu.co (157.253.205.137)
+
+Nmap scan report for 157.253.205.143
+Host is up (0.0051s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE VERSION
+5357/tcp open  http    Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-title: Service Unavailable
+MAC Address: 50:9A:4C:4F:77:51 (Dell)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 10|11|2019 (92%)
+OS CPE: cpe:/o:microsoft:windows_10 cpe:/o:microsoft:windows_11 cpe:/o:microsoft:windows_server_2019
+Aggressive OS guesses: Microsoft Windows 10 1803 (92%), Microsoft Windows 10 1903 - 21H1 (92%), Microsoft Windows 11 (87%), Microsoft Windows 10 1909 (85%), Microsoft Windows 10 1909 - 2004 (85%), Windows Server 2019 (85%), Microsoft Windows 10 1809 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=255 (Good luck!)
+IP ID Sequence Generation: Incrementing by 2
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   5.10 ms 157.253.205.143
+
+Nmap scan report for 157.253.205.155
+Host is up (0.0047s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE VERSION
+5357/tcp open  http    Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-title: Service Unavailable
+MAC Address: 50:9A:4C:4F:77:76 (Dell)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 10|11|2019 (92%)
+OS CPE: cpe:/o:microsoft:windows_10 cpe:/o:microsoft:windows_11 cpe:/o:microsoft:windows_server_2019
+Aggressive OS guesses: Microsoft Windows 10 1803 (92%), Microsoft Windows 10 1903 - 21H1 (92%), Microsoft Windows 11 (87%), Microsoft Windows 10 1909 (85%), Microsoft Windows 10 1909 - 2004 (85%), Windows Server 2019 (85%), Microsoft Windows 10 1809 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=261 (Good luck!)
+IP ID Sequence Generation: Incrementing by 2
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   4.69 ms 157.253.205.155
+
+Nmap scan report for 157.253.205.158
+Host is up (0.00s latency).
+All 1000 scanned ports on 157.253.205.158 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 50:9A:4C:4E:00:D4 (Dell)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   0.00 ms 157.253.205.158
+
+Nmap scan report for 157.253.205.162
+Host is up (0.0044s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE         VERSION
+902/tcp  open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+912/tcp  open  vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)
+3389/tcp open  ms-wbt-server   Microsoft Terminal Services
+|_ssl-date: 2025-03-31T15:26:00+00:00; -7s from scanner time.
+| ssl-cert: Subject: commonName=SERVER-12
+| Issuer: commonName=SERVER-12
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2025-02-16T17:40:22
+| Not valid after:  2025-08-18T17:40:22
+| MD5:   1a94:a32b:fdaa:b834:9e17:7c1f:a786:6cfe
+|_SHA-1: 9b90:47fc:aba1:1af1:c616:7d3c:65c8:14bc:2f0a:fb37
+| rdp-ntlm-info: 
+|   Target_Name: SERVER-12
+|   NetBIOS_Domain_Name: SERVER-12
+|   NetBIOS_Computer_Name: SERVER-12
+|   DNS_Domain_Name: SERVER-12
+|   DNS_Computer_Name: SERVER-12
+|   Product_Version: 10.0.19041
+|_  System_Time: 2025-03-31T15:25:23+00:00
+5357/tcp open  http            Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-title: Service Unavailable
+7070/tcp open  ssl/realserver?
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=AnyDesk Client
+| Issuer: commonName=AnyDesk Client
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2025-03-21T21:30:16
+| Not valid after:  2075-03-09T21:30:16
+| MD5:   5fbe:e870:458d:8bab:6029:7387:4bee:c9ee
+|_SHA-1: 31d1:23ad:fcf2:ead5:931d:93d6:ccb8:34bc:bec1:c98e
+MAC Address: 50:9A:4C:4E:F3:1A (Dell)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 10|11|2019 (92%)
+OS CPE: cpe:/o:microsoft:windows_10 cpe:/o:microsoft:windows_11 cpe:/o:microsoft:windows_server_2019
+Aggressive OS guesses: Microsoft Windows 10 1803 (92%), Microsoft Windows 10 1903 - 21H1 (92%), Microsoft Windows 11 (89%), Microsoft Windows 10 1809 (87%), Microsoft Windows 10 1909 (85%), Microsoft Windows 10 1909 - 2004 (85%), Windows Server 2019 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=257 (Good luck!)
+IP ID Sequence Generation: Incrementing by 2
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_clock-skew: mean: -7s, deviation: 0s, median: -7s
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   4.38 ms 157.253.205.162
+
+Nmap scan report for 157.253.205.164
+Host is up (0.0058s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT     STATE SERVICE         VERSION
+135/tcp  open  msrpc           Microsoft Windows RPC
+139/tcp  open  netbios-ssn     Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+902/tcp  open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+912/tcp  open  vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)
+5357/tcp open  http            Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-title: Service Unavailable
+|_http-server-header: Microsoft-HTTPAPI/2.0
+MAC Address: 50:9A:4C:4E:06:37 (Dell)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1709 - 21H2
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=260 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_clock-skew: -1s
+| nbstat: NetBIOS name: DESKTOP-0UB3199, NetBIOS user: <unknown>, NetBIOS MAC: 50:9a:4c:4e:06:37 (Dell)
+| Names:
+|   DESKTOP-0UB3199<20>  Flags: <unique><active>
+|   DESKTOP-0UB3199<00>  Flags: <unique><active>
+|_  WORKGROUP<00>        Flags: <group><active>
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+| smb2-time: 
+|   date: 2025-03-31T15:25:45
+|_  start_date: N/A
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   5.85 ms 157.253.205.164
+
+Nmap scan report for 157.253.205.180
+Host is up (0.0075s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE    VERSION
+22/tcp  open  tcpwrapped
+|_ssh-hostkey: ERROR: Script execution failed (use -d to debug)
+80/tcp  open  http       Cisco IOS http config
+|_http-server-header: cisco-IOS
+| http-methods: 
+|_  Supported Methods: POST
+|_http-title: Site doesn't have a title.
+| http-auth: 
+| HTTP/1.1 401 Unauthorized\x0D
+|_  Basic realm=level_15_access
+443/tcp open  ssl/http   Cisco IOS http config
+|_ssl-date: TLS randomness does not represent time
+| http-auth: 
+| HTTP/1.1 401 Unauthorized\x0D
+|_  Basic realm=level_15_access
+|_http-server-header: cisco-IOS
+| ssl-cert: Subject: commonName=IOS-Self-Signed-Certificate-3761495552
+| Issuer: commonName=IOS-Self-Signed-Certificate-3761495552
+| Public Key type: rsa
+| Public Key bits: 1024
+| Signature Algorithm: sha1WithRSAEncryption
+| Not valid before: 2024-01-17T17:19:09
+| Not valid after:  2030-01-01T00:00:00
+| MD5:   e901:b411:bf4a:1fb7:9f70:1a1f:d8be:9429
+|_SHA-1: 0c99:3d5e:0bb2:653b:b097:9eb4:5de6:b5a5:c523:84c3
+|_http-title: Site doesn't have a title.
+| http-methods: 
+|_  Supported Methods: POST
+MAC Address: C4:7E:E0:33:DE:40 (Cisco Systems)
+OS details: Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1), Cisco Aironet 1141N (IOS 12.4) or 3602I (IOS 15.3) WAP, Cisco Aironet 2600-series WAP (IOS 15.2(2))
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=261 (Good luck!)
+IP ID Sequence Generation: Randomized
+Service Info: OS: IOS; CPE: cpe:/o:cisco:ios
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   7.51 ms 157.253.205.180
+
+Nmap scan report for 157.253.205.191
+Host is up (0.0015s latency).
+All 1000 scanned ports on 157.253.205.191 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 50:9A:4C:4F:77:81 (Dell)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   1.45 ms 157.253.205.191
+
+Nmap scan report for 157.253.205.199
+Host is up (0.0020s latency).
+All 1000 scanned ports on 157.253.205.199 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 50:9A:4C:4F:77:60 (Dell)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   2.00 ms 157.253.205.199
+
+Nmap scan report for 157.253.205.216
+Host is up (0.0075s latency).
+Not shown: 987 closed tcp ports (reset)
+PORT     STATE SERVICE         VERSION
+22/tcp   open  ssh             OpenSSH 9.6p1 Ubuntu 3ubuntu13.8 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 2b:2b:3a:df:10:59:a6:e9:12:54:b3:30:bb:47:57:bf (ECDSA)
+|_  256 c4:5f:75:d4:ea:72:66:a0:a2:4c:bf:87:d4:6c:34:ae (ED25519)
+3000/tcp open  ssl/http        Node.js Express framework
+| tls-alpn: 
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=157.253.205.216/organizationName=My Organization/stateOrProvinceName=Some-State/countryName=CO
+| Subject Alternative Name: IP Address:157.253.205.216, IP Address:127.0.0.1, IP Address:172.17.0.2, DNS:157.253.205.216, DNS:127.0.0.1, DNS:172.17.0.2
+| Issuer: commonName=MQTT_BROKER/organizationName=UNIANDES/stateOrProvinceName=BOGOTA/countryName=CO
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2025-03-27T18:12:10
+| Not valid after:  2026-03-27T18:12:10
+| MD5:   69e9:5b0d:804a:46bf:58b8:fca4:783a:873c
+|_SHA-1: be3b:ee34:c021:1ab3:b394:12d0:809d:e973:356f:2746
+|_http-title: Site doesn't have a title (application/json; charset=utf-8).
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+3389/tcp open  ms-wbt-server   Microsoft Terminal Service
+4000/tcp open  http-proxy      Ncat http proxy (Nmap 4.85BETA1 or later)
+| http-title: Logflare | Cloudflare, Vercel &amp; Elixir Logging
+|_Requested resource was /dashboard
+| http-methods: 
+|_  Supported Methods: GET HEAD
+|_http-open-proxy: Proxy might be redirecting requests
+| http-robots.txt: 1 disallowed entry 
+|_/
+5000/tcp open  http            Werkzeug httpd 3.1.3 (Python 3.12.9)
+|_http-title: 404 Not Found
+|_http-server-header: Werkzeug/3.1.3 Python/3.12.9
+5432/tcp open  postgresql?
+| fingerprint-strings: 
+|   FourOhFourRequest, GetRequest: 
+|     HTTP/1.1 204 OK
+|_    x-app-version: 2.3.9
+6000/tcp open  http            Werkzeug httpd 3.1.3 (Python 3.12.9)
+|_http-server-header: Werkzeug/3.1.3 Python/3.12.9
+|_http-title: 404 Not Found
+6543/tcp open  mythtv?
+| fingerprint-strings: 
+|   FourOhFourRequest, GetRequest: 
+|     HTTP/1.1 204 OK
+|_    x-app-version: 2.3.9
+7070/tcp open  ssl/realserver?
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=AnyDesk Client
+| Issuer: commonName=AnyDesk Client
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2025-03-21T21:28:25
+| Not valid after:  2075-03-09T21:28:25
+| MD5:   cb5a:5720:ca12:c8a5:76de:69f7:548c:9ea7
+|_SHA-1: 05be:ab46:667e:4acd:2fb8:dac0:b5a5:65b5:8f47:db3a
+8000/tcp open  http-alt        kong/2.8.1
+| fingerprint-strings: 
+|   FourOhFourRequest, GetRequest, HTTPOptions: 
+|     HTTP/1.1 401 Unauthorized
+|     Date: Mon, 31 Mar 2025 15:23:54 GMT
+|     Content-Type: application/json; charset=utf-8
+|     Connection: close
+|     WWW-Authenticate: Basic realm="kong"
+|     Content-Length: 30
+|     Access-Control-Allow-Origin: *
+|     X-Kong-Response-Latency: 0
+|     Server: kong/2.8.1
+|     "message":"Unauthorized"
+|   Socks4, Socks5, X11Probe: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Mon, 31 Mar 2025 15:23:54 GMT
+|     Content-Type: text/plain; charset=utf-8
+|     Connection: close
+|     Content-Length: 12
+|     X-Kong-Response-Latency: 0
+|     Server: kong/2.8.1
+|_    request
+|_http-server-header: kong/2.8.1
+|_http-cors: HEAD GET POST PUT DELETE TRACE OPTIONS CONNECT PATCH
+|_http-title: Site doesn't have a title (application/json; charset=utf-8).
+| http-auth: 
+| HTTP/1.1 401 Unauthorized\x0D
+|_  Basic realm=kong
+8083/tcp open  http            Cowboy httpd
+|_http-server-header: Cowboy
+|_http-title: Site doesn't have a title.
+8084/tcp open  ssl/http        Cowboy httpd
+|_http-server-header: Cowboy
+| ssl-cert: Subject: commonName=Server/organizationName=EMQ/stateOrProvinceName=hangzhou/countryName=CN
+| Issuer: commonName=RootCA/organizationName=EMQ/stateOrProvinceName=hangzhou/countryName=CN
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2020-05-08T08:07:05
+| Not valid after:  2030-05-06T08:07:05
+| MD5:   aba8:e02c:efae:bf9d:ddfa:70ba:2ff2:ca5c
+|_SHA-1: 701d:2f1f:fc5e:7ac9:1232:a2c9:8ac9:ee91:8e0b:8245
+|_http-title: Site doesn't have a title.
+8443/tcp open  ssl/https-alt   kong/2.8.1
+| fingerprint-strings: 
+|   DNSStatusRequestTCP, DNSVersionBindReqTCP, RPCCheck: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Mon, 31 Mar 2025 15:24:01 GMT
+|     Content-Type: text/plain; charset=utf-8
+|     Connection: close
+|     Content-Length: 12
+|     X-Kong-Response-Latency: 0
+|     Server: kong/2.8.1
+|     request
+|   FourOhFourRequest, GetRequest: 
+|     HTTP/1.1 401 Unauthorized
+|     Date: Mon, 31 Mar 2025 15:23:56 GMT
+|     Content-Type: application/json; charset=utf-8
+|     Connection: close
+|     WWW-Authenticate: Basic realm="kong"
+|     Content-Length: 30
+|     Access-Control-Allow-Origin: *
+|     X-Kong-Response-Latency: 1
+|     Server: kong/2.8.1
+|     "message":"Unauthorized"
+|   HTTPOptions: 
+|     HTTP/1.1 401 Unauthorized
+|     Date: Mon, 31 Mar 2025 15:23:56 GMT
+|     Content-Type: application/json; charset=utf-8
+|     Connection: close
+|     WWW-Authenticate: Basic realm="kong"
+|     Content-Length: 30
+|     Access-Control-Allow-Origin: *
+|     X-Kong-Response-Latency: 0
+|     Server: kong/2.8.1
+|     "message":"Unauthorized"
+|   RTSPRequest: 
+|_    Bad request
+| http-auth: 
+| HTTP/1.1 401 Unauthorized\x0D
+|_  Basic realm=kong
+|_http-server-header: kong/2.8.1
+|_http-cors: HEAD GET POST PUT DELETE TRACE OPTIONS CONNECT PATCH
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=localhost/organizationName=Kong/stateOrProvinceName=California/countryName=US
+| Issuer: commonName=localhost/organizationName=Kong/stateOrProvinceName=California/countryName=US
+| Public Key type: ec
+| Public Key bits: 256
+| Signature Algorithm: ecdsa-with-SHA256
+| Not valid before: 2025-03-27T18:50:12
+| Not valid after:  2038-01-19T03:14:08
+| MD5:   569b:265a:7d18:e6ed:90fa:15e1:3b06:9830
+|_SHA-1: b89c:0c9b:deba:e84f:0fd3:bcaf:0d5d:1471:7b0a:1406
+|_http-title: Site doesn't have a title (application/json; charset=utf-8).
+4 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port5432-TCP:V=7.95%I=7%D=3/31%Time=67EAB385%P=i686-pc-windows-windows%
+SF:r(GetRequest,29,"HTTP/1\.1\x20204\x20OK\r\nx-app-version:\x202\.3\.9\r\
+SF:n\r\n")%r(FourOhFourRequest,29,"HTTP/1\.1\x20204\x20OK\r\nx-app-version
+SF::\x202\.3\.9\r\n\r\n");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port6543-TCP:V=7.95%I=7%D=3/31%Time=67EAB385%P=i686-pc-windows-windows%
+SF:r(GetRequest,29,"HTTP/1\.1\x20204\x20OK\r\nx-app-version:\x202\.3\.9\r\
+SF:n\r\n")%r(FourOhFourRequest,29,"HTTP/1\.1\x20204\x20OK\r\nx-app-version
+SF::\x202\.3\.9\r\n\r\n");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port8000-TCP:V=7.95%I=7%D=3/31%Time=67EAB38A%P=i686-pc-windows-windows%
+SF:r(GetRequest,12C,"HTTP/1\.1\x20401\x20Unauthorized\r\nDate:\x20Mon,\x20
+SF:31\x20Mar\x202025\x2015:23:54\x20GMT\r\nContent-Type:\x20application/js
+SF:on;\x20charset=utf-8\r\nConnection:\x20close\r\nWWW-Authenticate:\x20Ba
+SF:sic\x20realm=\"kong\"\r\nContent-Length:\x2030\r\nAccess-Control-Allow-
+SF:Origin:\x20\*\r\nX-Kong-Response-Latency:\x200\r\nServer:\x20kong/2\.8\
+SF:.1\r\n\r\n{\n\x20\x20\"message\":\"Unauthorized\"\n}")%r(X11Probe,CD,"H
+SF:TTP/1\.1\x20400\x20Bad\x20Request\r\nDate:\x20Mon,\x2031\x20Mar\x202025
+SF:\x2015:23:54\x20GMT\r\nContent-Type:\x20text/plain;\x20charset=utf-8\r\
+SF:nConnection:\x20close\r\nContent-Length:\x2012\r\nX-Kong-Response-Laten
+SF:cy:\x200\r\nServer:\x20kong/2\.8\.1\r\n\r\nBad\x20request\n")%r(FourOhF
+SF:ourRequest,12C,"HTTP/1\.1\x20401\x20Unauthorized\r\nDate:\x20Mon,\x2031
+SF:\x20Mar\x202025\x2015:23:54\x20GMT\r\nContent-Type:\x20application/json
+SF:;\x20charset=utf-8\r\nConnection:\x20close\r\nWWW-Authenticate:\x20Basi
+SF:c\x20realm=\"kong\"\r\nContent-Length:\x2030\r\nAccess-Control-Allow-Or
+SF:igin:\x20\*\r\nX-Kong-Response-Latency:\x200\r\nServer:\x20kong/2\.8\.1
+SF:\r\n\r\n{\n\x20\x20\"message\":\"Unauthorized\"\n}")%r(Socks5,CD,"HTTP/
+SF:1\.1\x20400\x20Bad\x20Request\r\nDate:\x20Mon,\x2031\x20Mar\x202025\x20
+SF:15:23:54\x20GMT\r\nContent-Type:\x20text/plain;\x20charset=utf-8\r\nCon
+SF:nection:\x20close\r\nContent-Length:\x2012\r\nX-Kong-Response-Latency:\
+SF:x200\r\nServer:\x20kong/2\.8\.1\r\n\r\nBad\x20request\n")%r(Socks4,CD,"
+SF:HTTP/1\.1\x20400\x20Bad\x20Request\r\nDate:\x20Mon,\x2031\x20Mar\x20202
+SF:5\x2015:23:54\x20GMT\r\nContent-Type:\x20text/plain;\x20charset=utf-8\r
+SF:\nConnection:\x20close\r\nContent-Length:\x2012\r\nX-Kong-Response-Late
+SF:ncy:\x200\r\nServer:\x20kong/2\.8\.1\r\n\r\nBad\x20request\n")%r(HTTPOp
+SF:tions,12C,"HTTP/1\.1\x20401\x20Unauthorized\r\nDate:\x20Mon,\x2031\x20M
+SF:ar\x202025\x2015:23:54\x20GMT\r\nContent-Type:\x20application/json;\x20
+SF:charset=utf-8\r\nConnection:\x20close\r\nWWW-Authenticate:\x20Basic\x20
+SF:realm=\"kong\"\r\nContent-Length:\x2030\r\nAccess-Control-Allow-Origin:
+SF:\x20\*\r\nX-Kong-Response-Latency:\x200\r\nServer:\x20kong/2\.8\.1\r\n\
+SF:r\n{\n\x20\x20\"message\":\"Unauthorized\"\n}");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port8443-TCP:V=7.95%T=SSL%I=7%D=3/31%Time=67EAB38C%P=i686-pc-windows-wi
+SF:ndows%r(GetRequest,12C,"HTTP/1\.1\x20401\x20Unauthorized\r\nDate:\x20Mo
+SF:n,\x2031\x20Mar\x202025\x2015:23:56\x20GMT\r\nContent-Type:\x20applicat
+SF:ion/json;\x20charset=utf-8\r\nConnection:\x20close\r\nWWW-Authenticate:
+SF:\x20Basic\x20realm=\"kong\"\r\nContent-Length:\x2030\r\nAccess-Control-
+SF:Allow-Origin:\x20\*\r\nX-Kong-Response-Latency:\x201\r\nServer:\x20kong
+SF:/2\.8\.1\r\n\r\n{\n\x20\x20\"message\":\"Unauthorized\"\n}")%r(HTTPOpti
+SF:ons,12C,"HTTP/1\.1\x20401\x20Unauthorized\r\nDate:\x20Mon,\x2031\x20Mar
+SF:\x202025\x2015:23:56\x20GMT\r\nContent-Type:\x20application/json;\x20ch
+SF:arset=utf-8\r\nConnection:\x20close\r\nWWW-Authenticate:\x20Basic\x20re
+SF:alm=\"kong\"\r\nContent-Length:\x2030\r\nAccess-Control-Allow-Origin:\x
+SF:20\*\r\nX-Kong-Response-Latency:\x200\r\nServer:\x20kong/2\.8\.1\r\n\r\
+SF:n{\n\x20\x20\"message\":\"Unauthorized\"\n}")%r(FourOhFourRequest,12C,"
+SF:HTTP/1\.1\x20401\x20Unauthorized\r\nDate:\x20Mon,\x2031\x20Mar\x202025\
+SF:x2015:23:56\x20GMT\r\nContent-Type:\x20application/json;\x20charset=utf
+SF:-8\r\nConnection:\x20close\r\nWWW-Authenticate:\x20Basic\x20realm=\"kon
+SF:g\"\r\nContent-Length:\x2030\r\nAccess-Control-Allow-Origin:\x20\*\r\nX
+SF:-Kong-Response-Latency:\x201\r\nServer:\x20kong/2\.8\.1\r\n\r\n{\n\x20\
+SF:x20\"message\":\"Unauthorized\"\n}")%r(RTSPRequest,C,"Bad\x20request\n"
+SF:)%r(RPCCheck,CD,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nDate:\x20Mon,\x2
+SF:031\x20Mar\x202025\x2015:24:01\x20GMT\r\nContent-Type:\x20text/plain;\x
+SF:20charset=utf-8\r\nConnection:\x20close\r\nContent-Length:\x2012\r\nX-K
+SF:ong-Response-Latency:\x200\r\nServer:\x20kong/2\.8\.1\r\n\r\nBad\x20req
+SF:uest\n")%r(DNSVersionBindReqTCP,CD,"HTTP/1\.1\x20400\x20Bad\x20Request\
+SF:r\nDate:\x20Mon,\x2031\x20Mar\x202025\x2015:24:01\x20GMT\r\nContent-Typ
+SF:e:\x20text/plain;\x20charset=utf-8\r\nConnection:\x20close\r\nContent-L
+SF:ength:\x2012\r\nX-Kong-Response-Latency:\x200\r\nServer:\x20kong/2\.8\.
+SF:1\r\n\r\nBad\x20request\n")%r(DNSStatusRequestTCP,CD,"HTTP/1\.1\x20400\
+SF:x20Bad\x20Request\r\nDate:\x20Mon,\x2031\x20Mar\x202025\x2015:24:01\x20
+SF:GMT\r\nContent-Type:\x20text/plain;\x20charset=utf-8\r\nConnection:\x20
+SF:close\r\nContent-Length:\x2012\r\nX-Kong-Response-Latency:\x200\r\nServ
+SF:er:\x20kong/2\.8\.1\r\n\r\nBad\x20request\n");
+MAC Address: 50:9A:4C:4E:06:63 (Dell)
+Device type: general purpose
+Running: Linux 4.X|5.X
+OS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5
+OS details: Linux 4.15 - 5.19
+Uptime guess: 5.429 days (since Wed Mar 26 00:08:03 2025)
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=258 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OSs: Linux, Windows; CPE: cpe:/o:linux:linux_kernel, cpe:/o:microsoft:windows
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   7.53 ms 157.253.205.216
+
+Nmap scan report for 157.253.205.226
+Host is up (0.0081s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT    STATE SERVICE         VERSION
+135/tcp open  msrpc           Microsoft Windows RPC
+139/tcp open  netbios-ssn     Microsoft Windows netbios-ssn
+445/tcp open  microsoft-ds?
+902/tcp open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+912/tcp open  vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)
+MAC Address: 48:4D:7E:F9:20:F2 (Dell)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1709 - 21H2
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=258 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| nbstat: NetBIOS name: SERVER-27, NetBIOS user: <unknown>, NetBIOS MAC: 48:4d:7e:f9:20:f2 (Dell)
+| Names:
+|   SERVER-27<00>        Flags: <unique><active>
+|   WORKGROUP<00>        Flags: <group><active>
+|_  SERVER-27<20>        Flags: <unique><active>
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+| smb2-time: 
+|   date: 2025-03-31T15:25:47
+|_  start_date: N/A
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   8.14 ms 157.253.205.226
+
+Nmap scan report for 157.253.205.230
+Host is up (0.0010s latency).
+All 1000 scanned ports on 157.253.205.230 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 58:6D:8F:73:4B:43 (Cisco-Linksys)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   1.00 ms 157.253.205.230
+
+Nmap scan report for 157.253.205.239
+Host is up (0.0083s latency).
+Not shown: 993 closed tcp ports (reset)
+PORT     STATE SERVICE         VERSION
+135/tcp  open  msrpc           Microsoft Windows RPC
+139/tcp  open  netbios-ssn     Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+902/tcp  open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+912/tcp  open  vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)
+3389/tcp open  ms-wbt-server   Microsoft Terminal Services
+|_ssl-date: 2025-03-31T15:26:07+00:00; 0s from scanner time.
+| ssl-cert: Subject: commonName=SERVER-23
+| Issuer: commonName=SERVER-23
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2024-11-16T12:00:44
+| Not valid after:  2025-05-18T12:00:44
+| MD5:   319a:852e:a6cf:97fc:7fc3:9aa4:cff5:1988
+|_SHA-1: 8b4d:4e7c:3c71:f4a9:9698:af53:c052:7bf1:cc7b:4c5f
+5357/tcp open  http            Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-title: Service Unavailable
+MAC Address: 50:9A:4C:4F:77:3B (Dell)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1709 - 21H2
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=256 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| nbstat: NetBIOS name: SERVER-23, NetBIOS user: <unknown>, NetBIOS MAC: 50:9a:4c:4f:77:3b (Dell)
+| Names:
+|   SERVER-23<00>        Flags: <unique><active>
+|   WORKGROUP<00>        Flags: <group><active>
+|_  SERVER-23<20>        Flags: <unique><active>
+| smb2-time: 
+|   date: 2025-03-31T15:25:47
+|_  start_date: N/A
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   8.27 ms 157.253.205.239
+
+Nmap scan report for 157.253.205.243
+Host is up (0.0030s latency).
+All 1000 scanned ports on 157.253.205.243 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 50:9A:4C:4E:06:A3 (Dell)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   3.00 ms 157.253.205.243
+
+Nmap scan report for 157.253.205.244
+Host is up (0.0088s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE    VERSION
+22/tcp  open  tcpwrapped
+|_ssh-hostkey: ERROR: Script execution failed (use -d to debug)
+80/tcp  open  http       Cisco IOS http config
+|_http-server-header: cisco-IOS
+| http-methods: 
+|_  Supported Methods: POST
+| http-auth: 
+| HTTP/1.1 401 Unauthorized\x0D
+|_  Basic realm=level_15_access
+|_http-title: Site doesn't have a title.
+443/tcp open  ssl/http   Cisco IOS http config
+|_http-server-header: cisco-IOS
+|_http-title: Site doesn't have a title.
+| http-auth: 
+| HTTP/1.1 401 Unauthorized\x0D
+|_  Basic realm=level_15_access
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=Switch.uniandes.edu.co
+| Issuer: commonName=Switch.uniandes.edu.co
+| Public Key type: rsa
+| Public Key bits: 768
+| Signature Algorithm: sha1WithRSAEncryption
+| Not valid before: 2025-03-11T20:43:11
+| Not valid after:  2035-03-09T20:43:11
+| MD5:   85e4:b905:d9a3:34c6:92d1:906c:fa47:83e4
+|_SHA-1: 0ea3:9a4e:ce04:5bb4:b89c:375a:c802:d807:c4d1:9984
+| http-methods: 
+|_  Supported Methods: POST
+MAC Address: C4:7E:E0:33:DF:C0 (Cisco Systems)
+OS details: Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1), Cisco Aironet 1141N (IOS 12.4) or 3602I (IOS 15.3) WAP, Cisco Aironet 2600-series WAP (IOS 15.2(2))
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=257 (Good luck!)
+IP ID Sequence Generation: Randomized
+Service Info: OS: IOS; CPE: cpe:/o:cisco:ios
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   8.77 ms 157.253.205.244
+
+Nmap scan report for nasml340.ad.uniandes.edu.co (157.253.205.251)
+Host is up (0.0032s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE       VERSION
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+|_ssl-date: 2025-03-31T15:26:05+00:00; -1s from scanner time.
+| rdp-ntlm-info: 
+|   Target_Name: SERVER-06
+|   NetBIOS_Domain_Name: SERVER-06
+|   NetBIOS_Computer_Name: SERVER-06
+|   DNS_Domain_Name: SERVER-06
+|   DNS_Computer_Name: SERVER-06
+|   Product_Version: 10.0.19041
+|_  System_Time: 2025-03-31T15:25:23+00:00
+| ssl-cert: Subject: commonName=SERVER-06
+| Issuer: commonName=SERVER-06
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2025-02-03T16:28:02
+| Not valid after:  2025-08-05T16:28:02
+| MD5:   219a:0ab0:5f75:c174:107a:8f88:a8e4:9267
+|_SHA-1: f452:d1ba:3426:58ac:533e:78bc:4deb:6447:0329:fc7e
+MAC Address: 50:9A:4C:4E:02:21 (Dell)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=259 (Good luck!)
+IP ID Sequence Generation: Incrementing by 2
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_clock-skew: mean: -1s, deviation: 0s, median: -1s
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   3.20 ms nasml340.ad.uniandes.edu.co (157.253.205.251)
+
+Nmap scan report for 157.253.205.249
+Host is up (0.00049s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE         VERSION
+135/tcp  open  msrpc           Microsoft Windows RPC
+139/tcp  open  netbios-ssn     Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+903/tcp  open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+3389/tcp open  ms-wbt-server   Microsoft Terminal Services
+|_ssl-date: 2025-03-31T15:26:35+00:00; 0s from scanner time.
+| rdp-ntlm-info: 
+|   Target_Name: DESKTOP-7V5PPFB
+|   NetBIOS_Domain_Name: DESKTOP-7V5PPFB
+|   NetBIOS_Computer_Name: DESKTOP-7V5PPFB
+|   DNS_Domain_Name: DESKTOP-7V5PPFB
+|   DNS_Computer_Name: DESKTOP-7V5PPFB
+|   Product_Version: 10.0.19041
+|_  System_Time: 2025-03-31T15:26:21+00:00
+| ssl-cert: Subject: commonName=DESKTOP-7V5PPFB
+| Issuer: commonName=DESKTOP-7V5PPFB
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2024-11-16T00:01:57
+| Not valid after:  2025-05-18T00:01:57
+| MD5:   77f7:d093:1e17:6011:f6e9:76f5:0d69:6b49
+|_SHA-1: 71f0:79d7:5534:64cd:c520:bc9e:8153:89ef:f58c:788a
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1809 - 21H2
+Network Distance: 0 hops
+TCP Sequence Prediction: Difficulty=262 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-time: 
+|   date: 2025-03-31T15:26:25
+|_  start_date: N/A
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+
+Post-scan script results:
+| clock-skew: 
+|   0s: 
+|     157.253.205.7
+|     157.253.205.251 (nasml340.ad.uniandes.edu.co)
+|     157.253.205.70
+|     157.253.205.164
+|_    157.253.205.133
+Read data files from: C:\Program Files (x86)\Nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Mar 31 10:26:35 2025 -- 256 IP addresses (35 hosts up) scanned in 218.38 seconds
